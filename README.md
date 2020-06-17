@@ -1,4 +1,4 @@
-# Mantis Bugtracker Modern Theme
+# Mantis Bugtracker Modern Dark Theme
 
 ![MantisBTModernDarkTheme Screenshot](files/MantisBTModernDarkTheme_Screenshot.png)
 
