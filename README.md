@@ -4,8 +4,10 @@
 
 ## About
 
-I wanted a modern & clean theme for MantisBT. 
+I wanted a modern clean and dark theme for MantisBT. 
+
 Based on https://github.com/Tagirijus/MantisBTDarkTheme
+
 Edited from https://github.com/polnetwork/MantisBTModernTheme
 
 ## Installation
